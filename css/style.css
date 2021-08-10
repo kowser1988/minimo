@@ -1,0 +1,551 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+}
+header{
+
+width: 90%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+/* padding: 15px 0; */
+
+height: 50px;
+
+align-items: center;
+}
+.logo{
+
+width: 20%;
+}
+.logo img{
+
+}
+nav{
+
+width: 50%;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+color: #626262;
+    
+font-size: 25px;
+    
+text-transform: capitalize;
+}
+
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+    
+width: 100%;
+}
+
+.photodairy_section{
+
+width: 80%;
+
+margin: auto;
+
+padding: 100px 0;
+}
+.photodairy_section h5{
+    
+/* width: 80%; */
+    
+color: #b4ad9e;
+    
+/* margin: auto; */
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+margin-bottom: 30px;
+}
+.photodairy_section h1{
+    
+color: #626262;
+    
+font-size:  35px;
+    
+text-transform: capitalize;
+}
+.photodairy_section p{
+    
+color: #626262;
+    
+font-size: 16px;
+    
+margin: 30px 0;
+}
+.lifestyle_content{
+
+display: flex;
+
+justify-content: space-between;
+
+flex-wrap: wrap;
+}
+.lifestyle{
+
+width: 45%;
+}
+
+.lifestyle img{
+    
+width: 100%;
+}
+.lifestyle h5{
+    
+margin-bottom: 15px;
+    
+margin-top: 20px;
+}
+.lifestyle h1{
+    
+font-size: 35px;
+}
+
+.lifestyle p{
+    
+margin: 20px 0;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+/* padding: 15px 0; */
+
+height: 50px;
+
+align-items: center;
+}
+.logo{
+
+width: 20%;
+}
+.logo img{
+
+}
+nav{
+
+width: 50%;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+color: #626262;
+    
+font-size: 25px;
+    
+text-transform: capitalize;
+}
+
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+    
+width: 100%;
+}
+
+.photodairy_section{
+
+width: 80%;
+
+margin: auto;
+
+padding: 100px 0;
+}
+.photodairy_section h5{
+    
+/* width: 80%; */
+    
+color: #b4ad9e;
+    
+/* margin: auto; */
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+margin-bottom: 30px;
+}
+.photodairy_section h1{
+    
+color: #626262;
+    
+font-size:  35px;
+    
+text-transform: capitalize;
+}
+.photodairy_section p{
+    
+color: #626262;
+    
+font-size: 16px;
+    
+margin: 30px 0;
+}
+.lifestyle_content{
+
+display: flex;
+
+justify-content: space-between;
+
+flex-wrap: wrap;
+}
+.lifestyle{
+
+width: 45%;
+}
+
+.lifestyle img{
+    
+width: 100%;
+}
+.lifestyle h5{
+    
+margin-bottom: 15px;
+    
+margin-top: 20px;
+}
+.lifestyle h1{
+    
+font-size: 35px;
+}
+
+.lifestyle p{
+    
+margin: 20px 0;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 90%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+/* padding: 15px 0; */
+
+height: 50px;
+
+align-items: center;
+}
+.logo{
+
+width: 20%;
+}
+.logo img{
+
+}
+nav{
+
+width: 50%;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+color: #626262;
+    
+font-size: 20px;
+    
+text-transform: capitalize;
+}
+
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+    
+width: 100%;
+}
+
+.photodairy_section{
+
+width: 80%;
+
+margin: auto;
+
+padding: 100px 0;
+}
+.photodairy_section h5{
+    
+/* width: 80%; */
+    
+color: #b4ad9e;
+    
+/* margin: auto; */
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+margin-bottom: 30px;
+}
+.photodairy_section h1{
+    
+color: #626262;
+    
+font-size:  35px;
+    
+text-transform: capitalize;
+}
+.photodairy_section p{
+    
+color: #626262;
+    
+font-size: 16px;
+    
+margin: 30px 0;
+}
+.lifestyle_content{
+
+display: flex;
+
+justify-content: space-between;
+
+flex-wrap: wrap;
+
+/* padding-bottom: 100px; */
+
+/* margin-bottom: 100px; */
+}
+.lifestyle{
+
+width: 45%;
+
+margin-bottom: 100px;
+}
+
+.lifestyle img{
+    
+width: 100%;
+}
+.lifestyle h5{
+    
+margin-bottom: 15px;
+    
+margin-top: 20px;
+}
+.lifestyle h1{
+    
+font-size: 35px;
+}
+
+.lifestyle p{
+    
+margin: 20px 0;
+}
+
+
+.signup{
+
+background-color: #f0f0f0;
+
+padding: 100px 0;
+}
+.signup_content{
+
+width: 26%;
+
+margin: auto;
+
+text-align: center;
+
+position: relative;
+}
+.signup_content h1{
+    
+font-size: 39px;
+    
+font-weight: 600;
+    
+text-transform: capitalize;
+    
+color: #333333;
+    
+margin-bottom: 100px;
+}
+.signup_content input{
+    
+background: transparent;
+    
+border: none;
+    
+width: 100%;
+    
+border-bottom: 1px solid black;
+    
+text-transform: capitalize;
+    
+font-size: large;
+}
+.signup_content input:focus{
+    outline:none
+}
+.icon{
+
+position: absolute;
+
+bottom: 0;
+
+right: 0;
+}
+.icon img{
+    
+}
+.loadmore{
+
+height: 300px;
+
+/* text-align: center; */
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+}
+.loadmore button{
+    
+background: transparent;
+    
+border: 1 px solid black;
+    
+padding: 25px;
+    
+border: 1px solid #676666;
+    
+font-size: 20px;
+}
+footer{
+
+background: #f0f0f0;
+
+height: 100px;
+
+display: flex;
+
+align-items: center;
+}
+.footer_content{
+
+margin: auto;
+
+width: 80%;
+
+display: flex;
+
+justify-content: space-between;
+}
+.terms{
+
+width: 20%;
+}
+
+.terms ul{
+    
+list-style: none;
+    
+display: flex;
+    
+justify-content: space-between;
+}
+.terms ul li{
+    
+}
+.terms ul li a{
+    
+text-decoration: none;
+    
+text-transform: capitalize;
+    
+color: #626262;
+}
+.social_media{
+
+width: 13%;
+}
+.social_media ul{
+    
+list-style: none;
+    
+display: flex;
+    
+justify-content: space-between;
+}
+.social_media ul li{
+    
+text-transform: capitalize;
+}
+.social_media ul li a{
+    
+color: #626262;
+}
+
